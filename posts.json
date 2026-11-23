@@ -1,0 +1,147 @@
+[
+    {
+        "id": 1,
+        "titulo": "Introducción a la Ciencia de Datos con Python",
+        "contenido": "En este artículo exploramos las librerías fundamentales de Python para el análisis de datos como Pandas y NumPy.",
+        "autor": {
+            "nombre": "Carlos Mendoza",
+            "bio": "Ingeniero de Software y apasionado por la inteligencia artificial y la ciencia de datos.",
+            "especialidad": "Data Science y Machine Learning",
+            "redes_sociales": [
+                "@carlos_ai",
+                "@cmendoza_dev",
+                "@carlos_tech"
+            ]
+        },
+        "categoria": "Ciencia de Datos",
+        "tags": [
+            "Python",
+            "Data Science"
+        ],
+        "estado": "publicado"
+    },
+    {
+        "id": 2,
+        "titulo": "Construyendo tu primer modelo de Machine Learning",
+        "contenido": "Guía paso a paso para entrenar un modelo de clasificación con Scikit-Learn de manera sencilla.",
+        "autor": {
+            "nombre": "Carlos Mendoza",
+            "bio": "Ingeniero de Software y apasionado por la inteligencia artificial y la ciencia de datos.",
+            "especialidad": "Data Science y Machine Learning",
+            "redes_sociales": [
+                "@carlos_ai",
+                "@cmendoza_dev",
+                "@carlos_tech"
+            ]
+        },
+        "categoria": "Inteligencia Artificial",
+        "tags": [
+            "Machine Learning",
+            "AI",
+            "Python"
+        ],
+        "estado": "borrador"
+    },
+    {
+        "id": 3,
+        "titulo": "Limpieza y preparación de datos sin morir en el intento",
+        "contenido": "Estrategias efectivas para tratar datos nulos y valores atípicos en tus datasets usando Pandas.",
+        "autor": {
+            "nombre": "Carlos Mendoza",
+            "bio": "Ingeniero de Software y apasionado por la inteligencia artificial y la ciencia de datos.",
+            "especialidad": "Data Science y Machine Learning",
+            "redes_sociales": [
+                "@carlos_ai",
+                "@cmendoza_dev",
+                "@carlos_tech"
+            ]
+        },
+        "categoria": "Análisis de Datos",
+        "tags": [
+            "Python",
+            "Pandas",
+            "Data Science"
+        ],
+        "estado": "archivado"
+    },
+    {
+        "id": 4,
+        "titulo": "Redes Neuronales desde Cero con Python",
+        "contenido": "Una introducción conceptual y matemática a los fundamentos del Deep Learning y la Inteligencia Artificial.",
+        "autor": {
+            "nombre": "Carlos Mendoza",
+            "bio": "Ingeniero de Software y apasionado por la inteligencia artificial y la ciencia de datos.",
+            "especialidad": "Data Science y Machine Learning",
+            "redes_sociales": [
+                "@carlos_ai",
+                "@cmendoza_dev",
+                "@carlos_tech"
+            ]
+        },
+        "categoria": "Inteligencia Artificial",
+        "tags": [
+            "Deep Learning",
+            "AI",
+            "Python"
+        ],
+        "estado": "publicado"
+    },
+    {
+        "id": 5,
+        "titulo": "Visualización de Datos Impactante",
+        "contenido": "Aprende a comunicar hallazgos complejos a través de gráficos estadísticos claros y profesionales.",
+        "autor": {
+            "nombre": "Carlos Mendoza",
+            "bio": "Ingeniero de Software y apasionado por la inteligencia artificial y la ciencia de datos.",
+            "especialidad": "Data Science y Machine Learning",
+            "redes_sociales": [
+                "@carlos_ai",
+                "@cmendoza_dev",
+                "@carlos_tech"
+            ]
+        },
+        "categoria": "Visualización",
+        "tags": [
+            "Data Science",
+            "Python"
+        ],
+        "estado": "publicado"
+    },
+    {
+        "id": 6,
+        "titulo": "Primeros pasos con Inteligencia Artificial",
+        "autor": {
+            "nombre": "Carlos Mendoza",
+            "bio": "Ingeniero de Software y apasionado por la inteligencia artificial y la ciencia de datos.",
+            "especialidad": "Data Science y Machine Learning",
+            "redes_sociales": [
+                "@carlos_ai",
+                "@cmendoza_dev",
+                "@carlos_tech"
+            ]
+        },
+        "categoria": "Inteligencia Artificial",
+        "tags": [
+            "AI",
+            "Python"
+        ],
+        "estado": "borrador"
+    },
+    {
+        "id": 7,
+        "titulo": "Nuevo Post de prueba",
+        "contenido": "Conectando tecnologias",
+        "autor": {
+            "nombre": "Pablo",
+            "bio": "Autor Argentino nacido en 2000",
+            "especialidad": "",
+            "redes_sociales": []
+        },
+        "categoria": "",
+        "tags": [
+            "python",
+            "programacion"
+        ],
+        "estado": "borrador"
+    }
+]
